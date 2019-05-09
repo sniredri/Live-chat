@@ -1,0 +1,54 @@
+.rowHeader{
+    background: #485563;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #29323c, #485563);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #29323c, #485563); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.rowFooter{
+    background: #485563;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #29323c, #485563);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #29323c, #485563); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.usersStyle{
+    padding:5px;
+    border: 2px solid gray;
+    background: #ADA996;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ADA996, #F2F2F2, #DBDBDB, #EAEAEA);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ADA996, #F2F2F2, #DBDBDB, #EAEAEA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.chatStyle{
+    height: 565px;
+    overflow: scroll;
+    border: 2px solid black;
+    background: #ADA996;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.user{
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color:silver;
+}
+.userName{
+    margin: 4px;
+
+}
+.sendButton{
+    margin: 3%;
+}
+.myUser{
+    overflow:hidden;
+    border:1px solid black;
+    border-radius: 10px;
+    text-align: left;
+}
+.user2{
+    overflow:hidden;
+    border:1px solid black;
+    border-radius: 10px;
+    text-align: right;
+}
